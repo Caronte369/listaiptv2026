@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF: -1,xtrema Cartoons
+#EXTINF: -1,xtreme Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF: -1,SouthPark Original
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
@@ -10,56 +10,56 @@ https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
 http://190.60.39.220:8000/play/a08f/index.m3u8
 #EXTINF: -1,Disney Channel
 http://190.60.39.220:8000/play/a08g/index.m3u8
-#EXTINF: -1,AyE
-http://181.78.79.131:8000/play/a0mt
-#EXTINF: -1,AXN
-http://181.78.79.131:8000/play/a0q0
-#EXTINF: -1,AdultSwim
-http://181.78.79.131:8000/play/a0pk
-#EXTINF: -1,AnimalPlanet
-http://181.78.8.199:8000/play/a0by/index.m3u8
-#EXTINF: -1,ChileVision
-http://181.78.79.131:8000/play/a0r0
-#EXTINF: -1,CNN ESP
-http://181.78.79.131:8000/play/a0p3
-#EXTINF: -1,Caracol TV
-http://181.78.79.131:8000/play/a0sb
-#EXTINF: -1,RCN
-http://181.78.79.131:8000/play/a0sc
-#EXTINF: -1,CINECANAL
-http://181.78.79.131:8000/play/a0pp
-#EXTINF: -1,CITY TV
-http://181.78.79.131:8000/play/a0si
-#EXTINF: -1,ComedyCentral1
-http://181.78.79.131:8000/play/a0mu
 #EXTINF: -1,DHE
-http://181.78.79.131:8000/play/a0qv 
+http://190.60.39.220:8000/play/a08j/index.m3u8
+#EXTINF: -1,AXN
+http://190.60.39.220:8000/play/a072/index.m3u8
+#EXTINF: -1,AandE
+http://190.60.39.220:8000/play/a063/index.m3u8
+#EXTINF: -1,AnimalPlanet
+http://190.60.39.220:8000/play/a06t/index.m3u8
+#EXTINF: -1,AMC
+http://190.60.39.220:8000/play/a06b/index.m3u8
+#EXTINF: -1,CNN ESP
+http://190.60.39.220:8000/play/a05o/index.m3u8
+#EXTINF: -1,Caracol TV
+http://190.60.39.220:8000/play/a09d/index.m3u8
+#EXTINF: -1,RCN
+http://190.60.39.220:8000/play/a07x/index.m3u8
+#EXTINF: -1,CINECANAL
+http://190.60.39.220:8000/play/a06y/index.m3u8
+#EXTINF: -1,CITY TV
+http://190.60.39.220:8000/play/a084/index.m3u8
+#EXTINF: -1,ComedyCentral1
+http://190.60.39.220:8000/play/a064/index.m3u8
+#EXTINF: -1,DHE
+http://190.60.39.220:8000/play/a08j/index.m3u8
 #EXTINF: -1,DePelicula
-http://181.78.79.131:8000/play/a0qb
+http://190.60.39.220:8000/play/a04v/index.m3u8
 #EXTINF: -1,DiscoveryScience
-http://181.78.79.131:8000/play/a0pb
+http://190.60.39.220:8000/play/a05s/index.m3u8
 #EXTINF: -1,DiscoveryTurbo
-http://181.78.79.131:8000/play/a0p8
-#EXTINF: -1,DiscoveryWorld
-http://181.78.79.131:8000/play/a0n8
-#EXTINF: -1,DiscoveryJR
-http://181.78.79.131:8000/play/a0p7
+http://190.60.39.220:8000/play/a05q/index.m3u8
+#EXTINF: -1,DiscoveryChannel
+http://190.60.39.220:8000/play/a06u/index.m3u8
+#EXTINF: -1,DiscoveryKids
+http://190.60.39.220:8000/play/a05z/index.m3u8
 #EXTINF: -1,ESPN
-http://181.78.79.131:8000/play/a0s7
+http://190.60.39.220:8000/play/a06g/index.m3u8
 #EXTINF: -1,ESPN2
-http://181.78.79.131:8000/play/a0qj
+http://190.60.39.220:8000/play/a06l/index.m3u8
 #EXTINF: -1,ESPN3
-http://181.78.79.131:8000/play/a0s6
+http://190.60.39.220:8000/play/a06e/index.m3u8
 #EXTINF: -1,ESPN4
-http://181.78.79.131:8000/play/a0s9
+http://190.60.39.220:8000/play/a075/index.m3u8
 #EXTINF: -1,ESPN5
-http://181.78.79.131:8000/play/a0s5
+http://190.60.39.220:8000/play/a069/index.m3u8
 #EXTINF: -1,ESPN6
-http://181.78.79.131:8000/play/a0s3
+http://190.60.39.220:8000/play/a062/index.m3u8
 #EXTINF: -1,ESPN7
-http://181.78.79.131:8000/play/a0s8
+http://190.60.39.220:8000/play/a06z/index.m3u8
 #EXTINF: -1,ESPN PREMIUM
-http://181.78.79.131:8000/play/a0r2
+http://190.60.39.220:8000/play/a06q/index.m3u8
 #EXTINF: -1,HBO XTREM
 http://181.78.79.131:8000/play/a0qy
 #EXTINF: -1,HGTV
@@ -69,47 +69,51 @@ http://181.78.79.131:8000/play/a0st
 #EXTINF: -1,ID
 http://181.78.79.131:8000/play/a0sl
 #EXTINF: -1,LAS ESTRELLAS
-http://181.78.8.199:8000/play/a0as/index.m3u8
+http://190.60.39.220:8000/play/a06p/index.m3u8
 #EXTINF: -1,LIFETIME
 http://181.78.79.131:8000/play/a0pi
-#EXTINF: -1,MEGA HD
-http://181.78.79.131:8000/play/a0qn
+#EXTINF: -1,MEMORIAS FILM
+http://190.60.39.220:8000/play/a022/index.m3u8
+#EXTINF: -1,MEMORIAS POP
+http://190.60.39.220:8000/play/a023/index.m3u8
+#EXTINF: -1,MEMORIAS SALSA
+http://190.60.39.220:8000/play/a06p/index.m3u8
 #EXTINF: -1,MTV
-http://181.78.79.131:8000/play/a0nc
+http://190.60.39.220:8000/play/a06f/index.m3u8
 #EXTINF: -1,NAT GEO 
-http://181.78.79.131:8000/play/a0pt
+http://190.60.39.220:8000/play/a06w/index.m3u8
 #EXTINF: -1,NICKELODEON
-http://181.78.79.131:8000/play/a0qm
+http://190.60.39.220:8000/play/a06m/index.m3u8
 #EXTINF: -1,PASIONES
-http://181.78.79.131:8000/play/a0qh
+hhttp://190.60.39.220:8000/play/a06k/index.m3u8
 #EXTINF: -1,RCN NOVELAS
-http://181.78.79.131:8000/play/a0sk
+http://190.60.39.220:8000/play/a08q/index.m3u8
 #EXTINF: -1,SPACE
-http://181.78.79.131:8000/play/a0q2
-#EXTINF: -1,SUN
-http://181.78.79.131:8000/play/a0qz
+http://190.60.39.220:8000/play/a074/index.m3u8
+#EXTINF: -1,USA
+http://190.60.39.220:8000/play/a05u/index.m3u8
 #EXTINF: -1,TLC
-http://181.78.79.131:8000/play/a0t3
+http://190.60.39.220:8000/play/a05r/index.m3u8
 #EXTINF: -1,TNT NOVELAS
-http://181.78.79.131:8000/play/a0na 
+http://190.60.39.220:8000/play/a06d/index.m3u8
 #EXTINF: -1,TNT PREMIUM 
 http://181.78.79.131:8000/play/a0q9
 #EXTINF: -1,TRO
-http://181.78.79.131:8000/play/a0sh
+http://190.60.39.220:8000/play/a082/index.m3u8
 #EXTINF: -1,TLNOVELAS
-http://181.78.79.131:8000/play/a0t6
+http://190.60.39.220:8000/play/a08k/index.m3u8
 #EXTINF: -1,TOONCAST
-http://181.78.79.131:8000/play/a0pe
+http://190.60.39.220:8000/play/a05u/index.m3u8
 #EXTINF: -1,UNIVERSAL TV
 http://181.78.79.131:8000/play/a0mw
-#EXTINF: -1,WARNER
-http://181.78.79.131:8000/play/a0sz
+#EXTINF: -1,TNT SERIES
+http://190.60.39.220:8000/play/a06c/index.m3u8
 #EXTINF: -1,WARNER HD 
 http://181.78.79.131:8000/play/a0pz
 #EXTINF: -1,BITME
 http://181.78.8.199:8000/play/a0ga/index.m3u8
-#EXTINF: -1,CARACOL
-http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF: -1,STAR CHANNEL2
+http://190.60.39.220:8000/play/a077/index.m3u8
 #EXTINF: -1,CLAN
 https://xyktmobile00.s.gy/PPV906_CLAN_INTE
 #EXTINF: -1,CARTOON NETWO ENGLISH
@@ -149,7 +153,7 @@ http://170.244.209.30:8000/play/a163/index.m3u8
 #EXTINF: -1,GOURMET 
 http://170.244.209.30:8000/play/a0gv/index.m3u8
 #EXTINF: -1,FOX
-http://http://170.244.209.30:8000/play/a0ie/index.m3u8
+http://190.60.39.220:8000/play/a076/index.m3u8
 #EXTINF: -1,FILM ARTS
 http://170.244.209.30:8000/play/a15r/index.m3u8
 #EXTINF: -1,GOLDEN EDGE
