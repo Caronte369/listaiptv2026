@@ -2,6 +2,8 @@
 
 #EXTINF: -1,xtreme Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF: -1,LATINA
+http://179.1.146.22:8000/play/a0p0/index.m3u8
 #EXTINF: -1,SouthPark Original
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
 #EXTINF: -1,SouthPark Español
@@ -28,8 +30,8 @@ http://190.60.39.220:8000/play/a09d/index.m3u8
 http://190.60.39.220:8000/play/a07x/index.m3u8
 #EXTINF: -1,CINECANAL
 http://190.60.39.220:8000/play/a06y/index.m3u8
-#EXTINF: -1,CITY TV
-http://190.60.39.220:8000/play/a084/index.m3u8
+#EXTINF: -1,AMERICA TV
+http://190.60.39.220:8000/play/a08o/index.m3u8
 #EXTINF: -1,ComedyCentral1
 http://190.60.39.220:8000/play/a064/index.m3u8
 #EXTINF: -1,DHE
@@ -61,17 +63,17 @@ http://190.60.39.220:8000/play/a06z/index.m3u8
 #EXTINF: -1,ESPN PREMIUM
 http://190.60.39.220:8000/play/a06q/index.m3u8
 #EXTINF: -1,HBO XTREM
-http://181.78.79.131:8000/play/a0qy
-#EXTINF: -1,HGTV
-http://181.78.79.131:8000/play/a0pf
+http://179.1.146.22:8000/play/a0hq/index.m3u8
+#EXTINF: -1,FMH KIDS
+http://190.60.39.220:8000/play/a01w/index.m3u8
 #EXTINF: -1,HISTORY CHANNEL 
-http://181.78.79.131:8000/play/a0st
+http://190.60.39.220:8000/play/a06v/index.m3u8
 #EXTINF: -1,ID
-http://181.78.79.131:8000/play/a0sl
+http://190.60.39.220:8000/play/a08r/index.m3u8
 #EXTINF: -1,LAS ESTRELLAS
 http://190.60.39.220:8000/play/a06p/index.m3u8
-#EXTINF: -1,LIFETIME
-http://181.78.79.131:8000/play/a0pi
+#EXTINF: -1,FMH MOVIES
+http://179.1.146.22:8000/play/a09k/index.m3u8
 #EXTINF: -1,MEMORIAS FILM
 http://190.60.39.220:8000/play/a022/index.m3u8
 #EXTINF: -1,MEMORIAS POP
@@ -85,25 +87,25 @@ http://190.60.39.220:8000/play/a06w/index.m3u8
 #EXTINF: -1,NICKELODEON
 http://190.60.39.220:8000/play/a06m/index.m3u8
 #EXTINF: -1,PASIONES
-hhttp://190.60.39.220:8000/play/a06k/index.m3u8
+http://179.1.146.22:8000/play/a0hd/index.m3u8
 #EXTINF: -1,RCN NOVELAS
 http://190.60.39.220:8000/play/a08q/index.m3u8
 #EXTINF: -1,SPACE
 http://190.60.39.220:8000/play/a074/index.m3u8
-#EXTINF: -1,USA
-http://190.60.39.220:8000/play/a05u/index.m3u8
+#EXTINF: -1,ATV
+http://179.1.146.22:8000/play/a0nb/index.m3u8
 #EXTINF: -1,TLC
 http://190.60.39.220:8000/play/a05r/index.m3u8
 #EXTINF: -1,TNT NOVELAS
 http://190.60.39.220:8000/play/a06d/index.m3u8
 #EXTINF: -1,TNT PREMIUM 
 http://181.78.79.131:8000/play/a0q9
-#EXTINF: -1,TRO
-http://190.60.39.220:8000/play/a082/index.m3u8
+#EXTINF: -1,PANAMERICANA
+http://179.1.146.22:8000/play/a0na/index.m3u8
 #EXTINF: -1,TLNOVELAS
 http://190.60.39.220:8000/play/a08k/index.m3u8
-#EXTINF: -1,TOONCAST
-http://190.60.39.220:8000/play/a05u/index.m3u8
+#EXTINF: -1,BBC NEWS
+http://179.1.146.22:8000/play/a0ry/index.m3u8
 #EXTINF: -1,UNIVERSAL TV
 http://181.78.79.131:8000/play/a0mw
 #EXTINF: -1,TNT SERIES
@@ -114,8 +116,8 @@ http://181.78.79.131:8000/play/a0pz
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 #EXTINF: -1,STAR CHANNEL2
 http://190.60.39.220:8000/play/a077/index.m3u8
-#EXTINF: -1,CLAN
-https://xyktmobile00.s.gy/PPV906_CLAN_INTE
+#EXTINF: -1,GLOBAL
+http://179.1.146.22:8000/play/a0iq/index.m3u8
 #EXTINF: -1,CARTOON NETWO ENGLISH
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF: -1,HBO pop
