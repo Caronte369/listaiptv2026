@@ -1,11 +1,16 @@
 #EXTM3U
 
-#EXTINF: -1,xtreme Cartoons
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF: -1,Willax
+http://179.1.146.22:8000/play/a0rm/index.m3u8
 #EXTINF: -1,LATINA
 http://179.1.146.22:8000/play/a0p0/index.m3u8
 #EXTINF: -1,SouthPark Original
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF: -1,AMERICA TV
+http://190.60.39.220:8000/play/a08o/index.m3u8
+#EXTINF: -1,PANAMERICANA
+http://179.1.146.22:8000/play/a0na/index.m3u8
 #EXTINF: -1,SouthPark Español
 https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
 #EXTINF: -1,DisneyJr
@@ -30,8 +35,6 @@ http://190.60.39.220:8000/play/a09d/index.m3u8
 http://190.60.39.220:8000/play/a07x/index.m3u8
 #EXTINF: -1,CINECANAL
 http://190.60.39.220:8000/play/a06y/index.m3u8
-#EXTINF: -1,AMERICA TV
-http://190.60.39.220:8000/play/a08o/index.m3u8
 #EXTINF: -1,ComedyCentral1
 http://190.60.39.220:8000/play/a064/index.m3u8
 #EXTINF: -1,DHE
@@ -100,8 +103,8 @@ http://190.60.39.220:8000/play/a05r/index.m3u8
 http://190.60.39.220:8000/play/a06d/index.m3u8
 #EXTINF: -1,TNT PREMIUM 
 http://181.78.79.131:8000/play/a0q9
-#EXTINF: -1,PANAMERICANA
-http://179.1.146.22:8000/play/a0na/index.m3u8
+#EXTINF: -1,xtreme Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF: -1,TLNOVELAS
 http://190.60.39.220:8000/play/a08k/index.m3u8
 #EXTINF: -1,BBC NEWS
